@@ -5,7 +5,7 @@ A data analysis project focused on uncovering key insights from a pizza sales da
 
 ## 📊 Project Overview
 
-This project analyzes historica sales data(over 50k+ rows) from a pizza store to answer KPIs And business questions such as:
+This project analyzes historica sales data(over 48k+ rows) from a pizza store to answer KPIs And business questions such as:
 
 **KPIs:**
 - Total Revenue
