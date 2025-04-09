@@ -19,8 +19,8 @@ This project analyzes historica sales data(over 50k+ rows) from a pizza store to
 - Monthly Trend for Orders
 - % of Sales by Pizza Category
 - % of Sales by Pizza Size
-- Best 5 Pizzas by Revenue
-- Worst 5 Pizzas by Revenue
+- Best 5 Pizzas by all parameters
+- Worst 5 Pizzas by all parameters
 
 ## 🛠️ Tools & Technologies Used
 
