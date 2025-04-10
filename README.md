@@ -1,5 +1,5 @@
 # Pizza-Sales-Analysis
-**(Using Excel, SQL,POWERBI)**
+**(Using Excel, SQL,POWER BI)**
 
 A data analysis project focused on uncovering key insights from a pizza sales dataset. The goal is to identify patterns in customer behavior, top-selling pizzas, peak sales times, and provide actionable business recommendations.
 
